@@ -1,5 +1,5 @@
 <html>
 <php?
-print "Hallo Welt";
+echo "Hallo Welt";
 ?>
 </html>
